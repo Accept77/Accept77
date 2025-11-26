@@ -17,12 +17,3 @@
 
 -   I’m a **frontend developer**.
     <br>
-
-## Github Stats
-
-<div align = "center">  
-  
-  ![github stats](https://github-readme-stats.vercel.app/api?username=Accept77)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Accept77&layout=compact&exclude_repo=Sasohan.com,django_practice)
-
-</div>
